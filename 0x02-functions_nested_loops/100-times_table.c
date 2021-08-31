@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * Prints the n times table
+ * print_times_table-Prints the n times table
  */
 void print_times_table(int n)
 {

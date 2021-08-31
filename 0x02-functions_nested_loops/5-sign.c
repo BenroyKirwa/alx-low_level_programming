@@ -1,7 +1,10 @@
 #include "main.h"
 
 /**
- * Return: 1 is greater than zero. 0 is zero.
+ * print_sign - Determines if the input number
+ * greater, iqual or less than zero.
+ *
+ *Return: 1 is greater than zero. 0 is zero.
  * -1 is less than zero.
  */
 int print_sign(int n)
