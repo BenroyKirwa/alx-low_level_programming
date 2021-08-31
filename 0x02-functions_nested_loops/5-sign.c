@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
  * Return: 1 is greater than zero. 0 is zero.

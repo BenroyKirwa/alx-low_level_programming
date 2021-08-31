@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
  * Jack_Bauer - Prints the minutes of a day
