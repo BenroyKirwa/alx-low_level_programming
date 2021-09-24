@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- *string_nconcat - fonction concatenate strings
+ *string_nconcat - function concatenates two strings
  *@s1: string
  *@s2: string
  *@n: integer
@@ -28,7 +28,7 @@ for (j = 0; s2[j]; j++)
 if (j > n)
 j = n;
 
-c = malloc ((sizeof(char) * i) + (sizeof(char) * j) +1);
+ c = malloc ((sizeof(char) * i) + ((sizeof(char) * j) +1);
 
 if (c == NULL)
 {
