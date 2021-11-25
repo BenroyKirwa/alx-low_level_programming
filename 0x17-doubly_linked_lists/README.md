@@ -1,4 +1,4 @@
-# Doubly linked lists  
+# Doubly linked lists:🧨   
 _Project done during Full Stack Software Engineering studies at Holberton School. It aims to learn about doubly linked list in C language._  
 ## Technologies
 * Scripts written in Bash 4.3.11(1)
